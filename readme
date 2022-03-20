@@ -1,0 +1,5 @@
+Project in constant WIP with specific goal for OOT PC Port.
+
+Tree of structure:
+> RAW Edit -> AIFF files for ingame purpose, but keeping the original and best quality from source in 16-bit mono (under investigation to use files ingame without samplerate limitation).
+> Ingame Edit -> AIFF Ingame
