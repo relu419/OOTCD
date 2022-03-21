@@ -5,7 +5,7 @@ Project created to change OOT PC Port samples to uncompressed samples from sourc
 
 <h3>Structure:</h3>
 Edited RAW -> AIFF Files with best quality in 16-bit mono (under investigation to work without samplerate limitation).<p>
-Edited Port -> AIFF files with better quality in 16-bit mono to worke correctly ingame.</p>
+Edited Port -> AIFF files with better quality in 16-bit mono to work correctly ingame.</p>
 
 <h3>Sources:</h3><p>
 Best Service Ultra Gigapack<p>
