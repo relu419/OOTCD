@@ -1,6 +1,5 @@
 # OOTCD -> About, Structure, Sources & Credits 
 
-## About:
 <p>Project created to change OOT PC Port samples to uncompressed samples from source. Edited, matching and ready for the purpose.</p>
 <p>Tested and working with OOT Version 1.0</p>
 
