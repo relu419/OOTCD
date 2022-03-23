@@ -1,11 +1,12 @@
 # OOTCD -> About, Structure, Sources & Credits 
 
 ## About:
-Project created to change OOT PC Port samples to uncompressed samples from source. Edited, matching and ready for the purpose.</p>
+<p>Project created to change OOT PC Port samples to uncompressed samples from source. Edited, matching and ready for the purpose.</p>
+<p>Tested and working with OOT Version 1.0</p>
 
 ## Structure:
-Edited RAW -> AIFF Files with best quality in 16-bit mono (under investigation to work without samplerate limitation).<p>
-Edited Port -> AIFF files with better quality in 16-bit mono to work correctly ingame.</p>
+<p>Edited RAW -> AIFF Files with best quality in 16-bit mono (under investigation to work without samplerate limitation).</p>
+<p>Edited Port -> AIFF files with better quality in 16-bit mono to work correctly ingame.</p>
 
 ## Sources:
 1. Best Service Ultra Gigapack
