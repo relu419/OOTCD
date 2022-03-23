@@ -1,36 +1,36 @@
 # OOTCD -> About, Structure, Sources & Credits 
 
-<h3>About:</h3><p>
+## About:
 Project created to change OOT PC Port samples to uncompressed samples from source. Edited, matching and ready for the purpose.</p>
 
-<h3>Structure:</h3>
+## Structure:
 Edited RAW -> AIFF Files with best quality in 16-bit mono (under investigation to work without samplerate limitation).<p>
 Edited Port -> AIFF files with better quality in 16-bit mono to work correctly ingame.</p>
 
-<h3>Sources:</h3><p>
-Best Service Ultra Gigapack<p>
-Digidesign Samplecell II<p>
-ILIO Synclavier World & Orchestral<p>
-Korg XSC-6S Ethnic<p>
-OMI Universe of Sounds<p>
-Rarefaction A Poke in the Ear with a Sharp Stick<p>
-Roland Sound Canvas SC88<p>
-Sound Ideas Sampler Library<p>
-Sound Ideas General 6000<p>
-Sound Ideas Warner Bros<p>
-Spectrasonics Distorted Reality<p>
-Zero-G Ambient<p>
-Zero-G Ethnic<p>
-Zero-G Ethnic Flavour<p>
-AKAI CD 3000<p>
-E-MU Systems Proteus/2 XR<p>
-E-MU Systems Proteus/3 XR<p>
-Kawai K1r<p>
-Korg 01R/W<p>
-Roland SR JV80-09<p>
-Spectrasonics Bass Legends<p>
+## Sources:
+1. Best Service Ultra Gigapack
+2. Digidesign Samplecell II
+3. ILIO Synclavier World & Orchestral
+4. Korg XSC-6S Ethnic
+5. OMI Universe of Sounds
+6. Rarefaction A Poke in the Ear with a Sharp Stick
+7. Roland Sound Canvas SC88
+8. Sound Ideas Sampler Library
+9. Sound Ideas General 6000
+10. Sound Ideas Warner Bros
+11. Spectrasonics Distorted Reality
+12. Zero-G Ambient
+13. Zero-G Ethnic
+14. Zero-G Ethnic Flavour
+15. AKAI CD 3000
+16. E-MU Systems Proteus/2 XR
+17. E-MU Systems Proteus/3 XR
+18. Kawai K1r
+19. Korg 01R/W
+20. Roland SR JV80-09
+21. Spectrasonics Bass Legends
 
-<h3>Credits:</h3><p>
+## Credits:
 Hinzoto -> Mentor of the project<p>
 Newer VGM -> https://docs.google.com/spreadsheets/d/1JJBlHHDc65fhZmKUGLrDTLCm6rfUU83-kbuD8Y0zU0o<p>
 G-Boy -> https://docs.google.com/spreadsheets/d/1brPjhDt2pW3H1nfThFMHVldDX9qzPRXujVGGwTZfgN8
