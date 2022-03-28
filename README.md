@@ -32,4 +32,5 @@
 
 ## Credits:
 Newer VGM -> https://docs.google.com/spreadsheets/d/1JJBlHHDc65fhZmKUGLrDTLCm6rfUU83-kbuD8Y0zU0o<p>
-G-Boy -> https://docs.google.com/spreadsheets/d/1brPjhDt2pW3H1nfThFMHVldDX9qzPRXujVGGwTZfgN8
+G-Boy -> https://docs.google.com/spreadsheets/d/1brPjhDt2pW3H1nfThFMHVldDX9qzPRXujVGGwTZfgN8<p>
+Michael02022 from Newer VGM for help with Piano and Loop structure 
