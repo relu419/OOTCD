@@ -1,4 +1,4 @@
-# OOTCD -> About, Structure, Sources & Credits 
+# OOTCD (Created by Hinzoto) -> About, Structure, Sources & Credits 
 
 <p>Project created to change OOT PC Port samples to uncompressed samples from source. Edited, matching and ready for the purpose.</p>
 <p>Tested and working with OOT Version 1.0</p>
@@ -31,6 +31,5 @@
 21. Spectrasonics Bass Legends
 
 ## Credits:
-Hinzoto -> Mentor of the project<p>
 Newer VGM -> https://docs.google.com/spreadsheets/d/1JJBlHHDc65fhZmKUGLrDTLCm6rfUU83-kbuD8Y0zU0o<p>
 G-Boy -> https://docs.google.com/spreadsheets/d/1brPjhDt2pW3H1nfThFMHVldDX9qzPRXujVGGwTZfgN8
