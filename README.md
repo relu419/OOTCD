@@ -1,11 +1,9 @@
 # OOTCD (Created by Hinzoto) -> About, Structure, Sources & Credits 
 
-<p>Project created to change OOT PC Port samples to uncompressed samples from source. Edited, matching and ready for the purpose.</p>
-<p>Tested and working with OOT Version 1.0</p>
+<p>Project created to change OOT PC Port (Ship of Harkinian) instrument samples to uncompressed samples from source. Edited, matching and ready for the purpose.</p>
 
 ## Structure:
-<p>Edited RAW -> AIFF Files with best quality in 16-bit mono (under investigation to work without samplerate limitation).</p>
-<p>Edited Port -> AIFF files with better quality in 16-bit mono to work correctly ingame.</p>
+<p>WAV files in 16-bit and mono to proper read and accurate experience</p>
 
 ## Sources:
 1. Best Service Ultra Gigapack
@@ -29,6 +27,7 @@
 19. Korg 01R/W
 20. Roland SR JV80-09
 21. Spectrasonics Bass Legends
+22. SRX World
 
 ## Credits:
 Newer VGM -> https://docs.google.com/spreadsheets/d/1JJBlHHDc65fhZmKUGLrDTLCm6rfUU83-kbuD8Y0zU0o<p>
