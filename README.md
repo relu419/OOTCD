@@ -3,7 +3,10 @@
 <p>Project created to change OOT PC Port (Ship of Harkinian) instrument samples to uncompressed samples from source. Edited, matching and ready for the purpose.</p>
 
 ## Structure:
-<p>WAV files in 16-bit and mono to proper read and accurate experience</p>
+<p>WAV files in 16-bit and mono to accurate/better experience</p>
+<p>Base ZIP file -> Match with ingame dump samples 32.000Hz base</p>
+<p>Ship ZIP file -> Everything made to work with Ship of Harkinian (SOON)</p>
+<p>Ship 1.0 ZIP file -> Everything made to work with Ship of Harkinian as 1.0/1.1 US Sample Root (SOON)</p>
 
 ## Sources:
 1. Best Service Ultra Gigapack
