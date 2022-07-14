@@ -1,7 +1,7 @@
 # OOTCD (Created by Hinzoto) -> About, Structure, Sources & Credits 
 
 <p>Project created to change OOT PC Port (Ship of Harkinian) instrument samples to uncompressed samples from source. Edited, matching and ready for the purpose.</p>
-<p>This projects is a WIP. More sources and better edits soon.</p>
+<p>This project is a WIP. More sources and better edits soon.</p>
 
 ## Structure:
 <p>WAV files in 16-bit and mono to accurate/better experience</p>
