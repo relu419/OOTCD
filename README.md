@@ -5,7 +5,7 @@
 
 ## Structure:
 <p>WAV files in 16-bit and mono to accurate/better experience</p>
-<p>Base ZIP file -> Match with ingame dump samples 32.000Hz base</p>
+<p>Base ZIP file -> Uncompressed samples matching with ingame dump samples in 32.000Hz base</p>
 <p>Ship ZIP file -> Everything made to work with Ship of Harkinian (SOON)</p>
 <p>Ship 1.0 ZIP file -> Everything made to work with Ship of Harkinian as 1.0/1.1 US Sample Root (SOON)</p>
 
