@@ -10,6 +10,7 @@
 <p>Ship 1.0 ZIP file -> Everything made to work with Ship of Harkinian as 1.0/1.1 US Sample Root (SOON)</p>
 
 ## Sources:
+0. Best Service Voice Spectral
 1. Best Service Ultra Gigapack
 2. Digidesign Samplecell II
 3. ILIO Synclavier World & Orchestral
