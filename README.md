@@ -34,6 +34,7 @@
 21. Spectrasonics Bass Legends
 22. SRX World
 23. IK Multimedia AXÉ Brazilian Percussion
+24. Sound Ideas Series 1000
 
 ## Credits:
 Newer VGM -> https://docs.google.com/spreadsheets/d/1JJBlHHDc65fhZmKUGLrDTLCm6rfUU83-kbuD8Y0zU0o<p>
