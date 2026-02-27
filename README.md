@@ -32,7 +32,7 @@
 19. Korg 01R/W
 20. Roland SR JV80-09
 21. Spectrasonics Bass Legends
-22. SRX World
+22. Yamaha VL1
 23. IK Multimedia AXÉ Brazilian Percussion
 24. Sound Ideas Series 1000
 
